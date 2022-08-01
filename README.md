@@ -1,2 +1,2 @@
 # web-page
-# [►](https://piyukothawade.github.io/web-page/) 
+# [![](icons.svg)](https://piyukothawade.github.io/web-page/) 
